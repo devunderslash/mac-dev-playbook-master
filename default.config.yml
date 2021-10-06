@@ -84,8 +84,10 @@ homebrew_installed_packages:
   - zsh-history-substring-search
   - tmux
   - awscli
+  - flyway
   - jq
   - tree
+  - subversion
   - warrensbox/tap/tfswitch
   - packer
   - romkatv/powerlevel10k/powerlevel10k
@@ -112,6 +114,7 @@ homebrew_cask_apps:
   - iterm2
   - postman
   - sourcetree
+  - smartsvn
   - adoptopenjdk8 #Java JDK
   - adoptopenjdk11 #Java JDK
 
